@@ -9,9 +9,14 @@ Designed to accommodate:
 ## Layers
 
 - `a`/`¯` -- macron
+- `e`/`´` -- aigu
 - `u`/`˘` -- breve
-- `/`/`/` -- slash
-- `-`/`-` -- "lower" inspired by Planck keyboard "lower" and "raise"
+- `v`/`ˇ` -- caron
+- `6`/`^` -- circumflex
+- `` ` `` -- grave
+- `/` -- slash
+- `-` -- "lower" inspired by Planck keyboard "lower" and "raise"
+  - lax vowels; syllabic diacritics: primary, secondary stress, long, half-long
 
 Based on Apple dead-key layer mechanic.
 
