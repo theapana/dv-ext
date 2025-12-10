@@ -6,6 +6,19 @@ Designed to accommodate:
 - IAST transcription of Sanskrit, Indic languages
 - IPA vowel transcription
 
+## Install
+
+Requirements: Mac OS
+
+Copy bundle to user keyboard layout directory:
+
+```
+cp -r dv-ext.bundle ~/Library/Keyboard\ Layouts/
+```
+
+Restart computer and add `dv-ext` as input source (language: English)
+
+
 ## Layers
 
 - `a`/`¯` -- macron
@@ -19,6 +32,5 @@ Designed to accommodate:
   - lax vowels; syllabic diacritics: primary, secondary stress, long, half-long
 
 Based on Apple dead-key layer mechanic.
-
 
 Created with [Ukelele](https://software.sil.org/ukelele/)
