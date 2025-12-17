@@ -3,6 +3,9 @@
 Designed to accommodate:
 
 - denoting long and short vowels with macron, breve diacritics
+- Greek -- as Greek is completely independent of Latin script, use a Greek
+keyboard layout.  Use Mac OS built-in function "Use the Caps Lock key to switch
+to and from [_last used Latin input source_]"
 - IAST transcription of Sanskrit, Indic languages
 - IPA vowel transcription
 
