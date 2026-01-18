@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 452 on 2025-12-10 at 06:29 (PST)-->
-<!--Last edited by Ukelele version 452 on 2025-12-17 at 10:43 (PST)-->
+<!--Last edited by Ukelele version 452 on 2026-01-17 at 19:11 (PST)-->
 <keyboard group="126" id="-6145" name="dv-ext" maxout="2">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
@@ -850,6 +850,7 @@
         </action>
         <action id="s">
             <when state="none" output="s"/>
+            <when state="aigu" output="ś"/>
             <when state="caron" output="š"/>
         </action>
         <action id="tilde">
